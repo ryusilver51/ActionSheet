@@ -1,4 +1,4 @@
-#  ActionSheet(Trello風タスク管理アプリ)
+#  ActionSheet(タスク管理アプリ)
 デプロイ先：[ActionSheet](https://action-sheet.herokuapp.com/)
 
 - スリープ状態の場合があります。その場合、起動まで10秒程度お待ちください。
