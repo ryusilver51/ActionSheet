@@ -25,7 +25,7 @@
 brew install postgresql
 brew services start postgresql
 git clone https://github.com/ryu-silver/ActionSheet.git
-cd Trello_clone
+cd ActionSheet
 bundle install
 rails db:migrate
 rails s
